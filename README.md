@@ -1,4 +1,4 @@
-# Quan_ly_khach_san
+
 <h1>Quản lý khách sạn</h1>
 <br>
 <h2>Goals</h2>
